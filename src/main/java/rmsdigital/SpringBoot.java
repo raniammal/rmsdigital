@@ -1,5 +1,5 @@
 package rmsdigital;
 
 public class SpringBoot {
-    private int id;
+    private int ids;
 }
